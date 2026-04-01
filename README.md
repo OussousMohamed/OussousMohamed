@@ -15,13 +15,22 @@
 </div>
 
 <div align="left" style="max-width: 700px; margin: 0 auto;">
-  <p>I'm <b>Mohamed Oussous</b>, a passionate <b>Full Stack Developer</b> from Morocco 🇲🇦 who turns ideas into elegant, high-performance web applications. With a strong focus on clean architecture and user-centric design, I strive to build digital experiences that make a real impact.</p>
-  <p>I believe that great code is like poetry — it should be simple, expressive, and meaningful. Every day, I push myself to learn, adapt, and craft solutions that solve real-world challenges.</p>
+  <p>I'm <b>Mohamed Oussous</b>, a passionate <b>Full Stack Developer</b> from Morocco 🇲🇦 dedicated to building scalable and high-performance web applications. I specialize in bridging the gap between robust backend logic and intuitive, user-centric interfaces.</p>
+  
+  <p>I believe that great code is like poetry — it should be simple, expressive, and meaningful. I am constantly evolving, learning new stacks, and crafting solutions that solve real-world challenges.</p>
+  
   <br />
-  🌐 <b>Portfolio:</b> <a href="https://mohamedoussous.dev">mohamedoussous.dev</a><br />
-  📫 <b>Email:</b> oussousomohamed001@gmail.com<br />
-  📍 <b>Location:</b> Agadir, Morocco
+  
+  <p align="center">
+    🌐 <b>Portfolio:</b> <a href="https://mohamedoussous.dev">mohamedoussous.dev</a> • 
+    📫 <b>Email:</b> <a href="mailto:oussousomohamed001@gmail.com">oussousomohamed001@gmail.com</a>
+  </p>
+  
+  <p align="center">
+    📍 <b>Location:</b> Agadir, Morocco
+  </p>
 </div>
+
 
 ---
 
