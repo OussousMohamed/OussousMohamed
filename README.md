@@ -1,8 +1,38 @@
-# Hi there, I'm Mohamed Oussous 👋 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00a8ff&height=120&section=header&text=Hi%20there,%20I'm%20Mohamed%20Oussous&fontSize=30&fontAlign=50&fontAlignY=40&color=timeGradient" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Coding Animation" style="border-radius: 10px; max-width: 600px; margin: 20px 0;" />
+</div>
 
 I am a **Full Stack Developer** specializing in building scalable web applications and architectural solutions. I leverage a modern stack including **React, Laravel, and Node.js** to build full-cycle applications, from designing intuitive user interfaces to implementing robust backend logic. 
 
 My approach integrates **Agile methodologies** and **DevOps basics** to ensure efficient development and reliable deployment, primarily within a **Fedora Linux** environment. I am dedicated to bridging the gap between clean architectural design and functional, high-performance user experiences.
+
+**Contact me:** [oussousmohamed6@gmail.com](mailto:oussousmohamed6@gmail.com)
+
+---
+
+### 🚀 About Me
+
+```javascript
+// I'm a passionate developer with a love for clean code and intuitive design.
+// My journey is driven by a curiosity for what's next, pushing me to explore
+// Web Dev, Backend Architecture, and creating robust digital solutions.
+
+const mohamed_oussous = {
+    location: "Morocco",
+    education: ["Specialized Technician in Digital Development", "Full-Stack Specialization"],
+    skills: {
+        frontend: ["HTML5", "CSS3", "JavaScript", "React", "jQuery", "TailwindCSS", "Bootstrap"],
+        backend: ["PHP", "Laravel", "Node.js", "Express.js", "Python", "Tkinter"],
+        databases: ["MySQL", "MongoDB", "PostgreSQL"],
+        tools: ["Git", "Figma", "Postman", "Fedora Linux"]
+    },
+    methodologies: ["Agile", "Scrum", "DevOps Basics"],
+    challenge: "I'm always ready for the next logical puzzle to solve."
+};
 
 **Contact me:** [oussousmohamed6@gmail.com](mailto:oussousmohamed6@gmail.com)
 
