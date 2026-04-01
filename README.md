@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=2D9C7A&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Mohamed+Oussous;Full+Stack+Developer;Let's+build+something+amazing!+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=2D9C7A&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Mohamed+Oussous;Full+Stack+Developer;let's+build+something+amazing!+🚀" alt="Typing Animation" />
 </div>
 
 <br />
@@ -12,8 +12,8 @@
       <p>I believe that great code is like poetry — it should be simple, expressive, and meaningful. Every day, I push myself to learn, adapt, and craft solutions that solve real-world challenges.</p>
       <br />
       🌐 <b>Portfolio:</b> <a href="https://mohamedoussous.dev">mohamedoussous.dev</a><br />
-      📫 <b>Email:</b> mohamed.oussous@example.com<br />
-      📍 <b>Location:</b> Casablanca, Morocco
+      📫 <b>Email:</b> oussousmohamed001@gmail.com<br />
+      📍 <b>Location:</b> Agadir, Morocco
     </td>
     <td width="40%" align="center">
       <img alt="Coding" width="100%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
@@ -77,14 +77,6 @@
 ---
 
 <div align="center">
-  
-### 🚀 Currently Working On
-
-- 🔭 Building modern web applications with React & Laravel
-- 🌱 Exploring microservices architecture & cloud technologies
-- 💡 Open to collaborating on exciting open-source projects
-
----
 
 ### ⚡ Quote I Live By
 
