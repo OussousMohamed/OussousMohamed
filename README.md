@@ -1,10 +1,10 @@
 # Hi there, I'm Mohamed Oussous 👋 
 
-I am a **Full Stack Developer** specializing in building scalable web applications and architectural solutions. Currently, I am focused on developing **JobyNow**, a comprehensive job portal, and crafting a digital platform for Moroccan artisanal services as my final year project.
+I am a **Full Stack Developer** specializing in building scalable web applications and architectural solutions. I leverage a modern stack including **React, Laravel, and Node.js** to build full-cycle applications, from designing intuitive user interfaces to implementing robust backend logic. 
 
-I leverage a modern stack including **React, Laravel, and Node.js** to build full-cycle applications, from designing intuitive user interfaces to implementing robust backend logic. My approach integrates **Agile methodologies** and **DevOps basics** to ensure efficient development and reliable deployment, primarily within a **Fedora Linux** environment.
+My approach integrates **Agile methodologies** and **DevOps basics** to ensure efficient development and reliable deployment, primarily within a **Fedora Linux** environment. I am dedicated to bridging the gap between clean architectural design and functional, high-performance user experiences.
 
-**Contact me:** [your.email@example.com](mailto:your.email@example.com)
+**Contact me:** [oussousmohamed6@gmail.com](mailto:oussousmohamed6@gmail.com)
 
 ---
 
@@ -21,14 +21,6 @@ I leverage a modern stack including **React, Laravel, and Node.js** to build ful
 
 ---
 
-### 🏗️ Current Projects & Focus
-- 🛠️ **JobyNow**: Developing a multi-role recruitment platform using Laravel and React.
-- 🎓 **Artisanal Platform**: Building a service-based marketplace for Moroccan crafts.
-- 🐍 **GUI Development**: Crafting desktop applications with Python and Tkinter.
-- 🔍 **Opportunities**: Open for professional internship roles in Full Stack Development.
-
----
-
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
@@ -37,7 +29,7 @@ I leverage a modern stack including **React, Laravel, and Node.js** to build ful
 
 ### 📫 Connect with me
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-- 📧 [Email](mailto:your.email@example.com)
+- 📧 [Email](mailto:oussousmohamed6@gmail.com)
 - 🌐 [Portfolio](https://yourportfolio.com)
 
 *"Code is not just instructions for computers, it's an art of logic."*
