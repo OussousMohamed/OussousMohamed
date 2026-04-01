@@ -4,22 +4,22 @@
 
 <br />
 
-<div align="center">
-  <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-  
-  ### 👨‍💻 About Me
-  
-  I'm **Mohamed Oussous**, a passionate **Full Stack Developer** from Morocco 🇲🇦 who turns ideas into elegant, high-performance web applications. With a strong focus on clean architecture and user-centric design, I strive to build digital experiences that make a real impact.
-  
-  I believe that great code is like poetry — it should be simple, expressive, and meaningful. Every day, I push myself to learn, adapt, and craft solutions that solve real-world challenges.
-  
-  🌐 **Portfolio:** [mohamedoussous.dev](https://mohamedoussous.dev)  
-  📫 **Email:** mohamed.oussous@example.com  
-  📍 **Location:** Casablanca, Morocco
-  
-</div>
-
-<br clear="both" />
+<table align="center">
+  <tr>
+    <td width="60%">
+      <h3>👨‍💻 About Me</h3>
+      <p>I'm <b>Mohamed Oussous</b>, a passionate <b>Full Stack Developer</b> from Morocco 🇲🇦 who turns ideas into elegant, high-performance web applications. With a strong focus on clean architecture and user-centric design, I strive to build digital experiences that make a real impact.</p>
+      <p>I believe that great code is like poetry — it should be simple, expressive, and meaningful. Every day, I push myself to learn, adapt, and craft solutions that solve real-world challenges.</p>
+      <br />
+      🌐 <b>Portfolio:</b> <a href="https://mohamedoussous.dev">mohamedoussous.dev</a><br />
+      📫 <b>Email:</b> mohamed.oussous@example.com<br />
+      📍 <b>Location:</b> Casablanca, Morocco
+    </td>
+    <td width="40%" align="center">
+      <img alt="Coding" width="100%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
