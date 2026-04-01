@@ -12,12 +12,11 @@
 
 <div align="center">
   <h3>👨‍💻 About Me</h3>
-  <p style="max-width: 600px; margin: 0 auto;">
-    I'm <b>Mohamed Oussous</b>, a passionate <b>Full Stack Developer</b> from Morocco 🇲🇦 who turns ideas into elegant, high-performance web applications. With a strong focus on clean architecture and user-centric design, I strive to build digital experiences that make a real impact.
-  </p>
-  <p style="max-width: 600px; margin: 10px auto;">
-    I believe that great code is like poetry — it should be simple, expressive, and meaningful. Every day, I push myself to learn, adapt, and craft solutions that solve real-world challenges.
-  </p>
+</div>
+
+<div align="left" style="max-width: 700px; margin: 0 auto;">
+  <p>I'm <b>Mohamed Oussous</b>, a passionate <b>Full Stack Developer</b> from Morocco 🇲🇦 who turns ideas into elegant, high-performance web applications. With a strong focus on clean architecture and user-centric design, I strive to build digital experiences that make a real impact.</p>
+  <p>I believe that great code is like poetry — it should be simple, expressive, and meaningful. Every day, I push myself to learn, adapt, and craft solutions that solve real-world challenges.</p>
   <br />
   🌐 <b>Portfolio:</b> <a href="https://mohamedoussous.dev">mohamedoussous.dev</a><br />
   📫 <b>Email:</b> oussousomohamed001@gmail.com<br />
@@ -26,7 +25,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+</div>
 
 <div align="center">
 
@@ -61,9 +62,8 @@
 
 ---
 
-### 📫 Let's Connect
-
 <div align="center">
+  <h3>📫 Let's Connect</h3>
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamedoussous.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-oussous)
