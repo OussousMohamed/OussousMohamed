@@ -21,12 +21,14 @@
   
   <br />
   
-  <p align="center">
-    🌐 <b>Portfolio:</b> <a href="https://mohamedoussous.dev">mohamedoussous.dev</a> • 
+  <p align="left">
     📫 <b>Email:</b> <a href="mailto:oussousomohamed001@gmail.com">oussousomohamed001@gmail.com</a>
   </p>
+  <p align="left">
+    🌐 <b>Portfolio:</b> <a href="https://mohamedoussous.dev">mohamedoussous.dev</a> 
+  </p>
   
-  <p align="center">
+  <p align="left">
     📍 <b>Location:</b> Agadir, Morocco
   </p>
 </div>
