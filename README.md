@@ -25,7 +25,7 @@
     📫 <b>Email:</b> <a href="mailto:oussousomohamed001@gmail.com">oussousomohamed001@gmail.com</a>
   </p>
   <p align="left">
-    🌐 <b>Portfolio:</b> <a href="https://mohamedoussous.dev">mohamedoussous.dev</a> 
+    🌐 <b>Portfolio:</b> <a href="https://oussousmohamed.netlify.app/">mohamedoussous.dev</a> 
   </p>
   
   <p align="left">
@@ -71,10 +71,9 @@
 <div align="center">
   <h3>📫 Let's Connect</h3>
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamedoussous.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://oussousmohamed.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-oussous)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OussousMohamed)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohamedoussous)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussousomohamed001@gmail.com)
 
 </div>
