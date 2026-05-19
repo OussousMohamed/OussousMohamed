@@ -45,6 +45,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -68,14 +69,13 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   
   <!-- Methodologies & Modeling -->
   <img alt="Agile" src="https://img.shields.io/badge/-Agile-009688?style=flat-square&logo=agile&logoColor=white" />
   <img alt="Scrum" src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrum&logoColor=white" />
-  <img alt="UML" src="https://img.shields.io/badge/-UML-333333?style=flat-square" />
-  <img alt="Merise" src="https://img.shields.io/badge/-Merise-003366?style=flat-square" />
 </p>
 
 
